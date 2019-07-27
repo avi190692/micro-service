@@ -1,0 +1,11 @@
+spring:
+ cloud:
+  config:
+   server: 
+    git: 
+     uri: https://Avi1206@bitbucket.org/Avi1206/configrepository.git
+     username: avinashprasadsaw@gmail.com
+     password: 12061986#Ansu
+     force-pull: true
+server:
+  port: 9092
