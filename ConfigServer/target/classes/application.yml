@@ -3,9 +3,7 @@ spring:
   config:
    server: 
     git: 
-     uri: https://Avi1206@bitbucket.org/Avi1206/configrepository.git
-     username: avinashprasadsaw@gmail.com
-     password: 12061986#Ansu
+     uri: https://github.com/avi190692/config-repo.git
      force-pull: true
 server:
   port: 9092
